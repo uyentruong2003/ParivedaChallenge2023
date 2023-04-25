@@ -1,0 +1,10 @@
+3#Uyen Truong#12345678#True#MIS 221
+1#John Doe#12345678#True#MIS 431/451
+1#Emily Jones#22433678#False#N/A
+3#Ella Smith#87654321#True#MIS 221
+1#Deep Sigh#12234564#False#N/A
+1#ut#12161297#True#AMP
+2#Uyen Truong#21346578#True#MIS 221
+2#Will Smith#11911817#True#MIS 321/330
+4#Jasmine Lee#87564312#True#MIS 405/430
+4#Jennifer Tran#88887777#False#N/A
